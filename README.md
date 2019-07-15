@@ -16,36 +16,36 @@
 
 ```css
 /* root */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/root.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/root.css");
 
 /* pc */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/pc.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/pc.css");
 
 /* components dropdown */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/components/dropdown.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/components/dropdown.css");
 
 /* components likebutton */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/components/likebutton.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/components/likebutton.css");
 
 /* components searchbox */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/components/searchbox.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/components/searchbox.css");
 ```
 
 ### Mobile
 
 ```css
 /* root */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/root.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/root.css");
 
 /* mobile */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/mobile.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/mobile.css");
 
 /* components dropdown */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/components/dropdown.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/components/dropdown.css");
 
 /* components likebutton */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/components/likebutton.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/components/likebutton.css");
 
 /* components searchbox */
-@import url("https://small_sunshine_.github.io/tgd_osu_css/components/searchbox.css");
+@import url("https://small-sunshines.github.io/tgd_osu_css/components/searchbox.css");
 ```
