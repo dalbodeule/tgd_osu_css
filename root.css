@@ -1,0 +1,27 @@
+/* 나눔바른고딕 */
+@import url(https://cdn.rawgit.com/openhiun/hangul/14c0f6faa2941116bb53001d6a7dcd5e82300c3f/nanumbarungothic.css);
+
+* {
+  font-family: 'Nanum Barun Gothic';
+}
+
+:root {
+  --color-0: #ffffff; /* box color */
+
+  --color-1: #cceecc; /* */
+  --color-2: #e3f1af; /* */
+  --color-3: #cc5288; /* main color */
+  --color-4: #f7a5ca; /* sub  color */
+  --color-5: #cff1af; /* */
+
+  /* --logo-URL: url("https://small_sunshine_.github.io/tgd_osu_css/img/logo.png"); */
+  --logo-URL: url("https://d4fodtu7cqfym.cloudfront.net/images/logo_new.png");
+  --logo-Width: 158px;
+  --logo-Height: 50px;
+  --logo-size-mobile: 90px 32px;
+
+  /* --icon-URL: url("https://small_sunshine_.github.io/tgd_osu_css/img/icon.png"); */
+  --icon-URL: url("https://jayppo.github.io/CSS/source/icon.png");
+  --pre-comment: "오늘도 오스를 플레이하는 ";
+  --sub-comment: "명!";
+}
